@@ -7,7 +7,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 /**
  * 使用Eureka做服务发现.
  * 2020-11-25
- * @author 周立
+ * @author 周立1
  */
 @SpringBootApplication
 @EnableEurekaServer
